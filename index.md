@@ -114,5 +114,3 @@ It’s good to have information organized.
 
 ## ![](http://shwr.me/pictures/logo.svg) [See more on GitHub](https://github.com/shower/shower/)
 {:.shout #SeeMore}
-
-## Add one more slide just to throw things off and force a rebuild
