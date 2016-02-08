@@ -15,9 +15,15 @@ Author presents these basic four requirements of a sound reinforcement system
 
 ##  Simplified Purpose of Sound Reinforcement System
 
-### Fidelity (Includes Intelligibility)
+I tend to simplify the four requirements into just two:
+
+ - Fidelity
+ - Power
+
+## Fidelity (Includes Intelligibility)
   Fidelity is the ability of the sound reinforcement system to recreate a sound accurately.  I believe this is going to include inteligibility, or the ability to understand what is being spoken.  If you have a high fidelity sound system, you should also be able to clearly understand what is said.
-### Power
+  
+## Power
   The sound system needs to be able to produce a level of output high enough for it's needs.
    - Rock and Roll == Higher Power Required
    - Speech Reinforcement == Lower Power Requirements
