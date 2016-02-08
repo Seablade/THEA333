@@ -1,5 +1,5 @@
 ---
-layout: ribbon
+layout: bright
 ---
 
 # Sound Reinforcement Basics
