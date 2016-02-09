@@ -9,7 +9,7 @@ layout: default
  - Pickup Pattern
 
 ## Construction Technique
-![2c](./images/radio-mic.jpg
+![2c](./images/radio-mic.jpg)
 
  - Dynamic
  - Condenser (Capacitor)
