@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Inputs
+
 ## Microphones
  - Construction Technique
  - Pickup Pattern
@@ -75,6 +77,22 @@ layout: default
  ... Does not have Proximity Effect
 
 ## DI Boxes
+ - Typically used to convert a high-impedance signal to low-impedance
+ - Often converts unbalanced signals to balanced signals
+ - Come in two variety Passive and Active
+
+## Passive DI vs Active DI (1/3)
+ - Passive DI requires no power
+ - Active DI requires power
+ - DI Boxes will insulate downstream equipment from phantom power (Prevent damage)
+ - Power can be provided through Phantom Power or batteries depending on DI Box
+
+## Passive DI vs Active DI (1/3)
+ - Passive DI has a signal loss associated with it
+ - Active DI has little to no signal loss
+ - General Rule of Thumb
+ -- Active DI on Passive Pickup
+ -- Passive DI on Active Pickup or Output
 
 ## Wireless Microphones
 
