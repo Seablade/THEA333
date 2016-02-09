@@ -125,3 +125,6 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
 ## Speed of Sound
 ## Calculating Wavelength
 ## Calculating Distance
+## Doppler Effect
+## Longitudinal vs Transverse Wave
+## Mechanical vs Electromagnetic Wave
