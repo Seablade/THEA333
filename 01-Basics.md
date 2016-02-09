@@ -1,6 +1,6 @@
 ---
-layout: bright
-style: custom.css
+layout: default
+style: ./custom.css
 ---
 
 # Sound Reinforcement Basics
