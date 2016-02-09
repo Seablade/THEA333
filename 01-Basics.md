@@ -84,6 +84,6 @@ Sound is the rapid cycling of pressure from high to low pressure.  As humans we 
 
 ## Sound Terminology
 
-![2c](.images/itlsr-6.jpg)
+![2c](./images/itlsr-6.jpg)
 
 We use a 2 dimensional graph to show the changes in pressure over time as we stand still and a sound wave passes us.
