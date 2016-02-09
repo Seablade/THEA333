@@ -100,7 +100,7 @@ layout: default
 
 ## Wireless Microphones
 
-### Frequency Coordination
+### **Frequency Coordination**
  - One Transmitter to One Receiver
  - One Frequency to each Transmitter and Receiver
  ... The more microphones you add the more you have to worry about _intermodulation_
