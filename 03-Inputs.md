@@ -9,7 +9,8 @@ layout: default
  - Pickup Pattern
 
 ## Construction Technique
-![2c](./images/radio-mic.jpg)
+![2c](./images/radio-mic.jpg
+
  - Dynamic
  - Condenser (Capacitor)
  - Ribbon
@@ -18,6 +19,7 @@ layout: default
 
 ## Dynamic Microphone
 ![2c](./images/itlsr-26.jpg)
+
  - Speaker in reverse
  - Very durable
  - Not very accurate
@@ -25,6 +27,7 @@ layout: default
 
 ## Condenser Microphone
 ![2c](./images/itlsr-30.jpg)
+
  - Two metal plates seperated by airgap
  - Not very durable
  - Requires Power (Phantom Power)
@@ -33,6 +36,7 @@ layout: default
 
 ## Ribbon Microphone
 ![2c](./images/itlsr-25.jpg)
+
  - Thin metallic ribbon suspended between magnetic poles
  - Exceedingly Fragile (Can be damaged by air blasts)
  - Do NOT apply Phantom Power
