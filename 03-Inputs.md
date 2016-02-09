@@ -43,7 +43,7 @@ layout: default
  - Typically used for a distinctive warm characteristic
 
 ## Ribbon Microphones Video
-<iframe width="100%" height="100%" src="https://www.youtube.com/embed/SHkOkqnJjy0" frameborder="0" allowfullscreen></iframe>
+<iframe width="60%" height="60%" src="https://www.youtube.com/embed/SHkOkqnJjy0" frameborder="0" allowfullscreen></iframe>
 
 ## Other Microphones
  - Carbon Microphones- We are Part 15 users of the UHF spectrum
