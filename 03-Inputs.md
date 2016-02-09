@@ -34,6 +34,9 @@ layout: default
  - Typically more accurate
  - Not uncommon on a live stage
 
+## Condenser Microphone Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RTZy-ThRXeY" frameborder="0" allowfullscreen></iframe>
+
 ## Ribbon Microphone
 ![2c](./images/itlsr-25.jpg)
 
@@ -93,6 +96,29 @@ layout: default
  - No good place for monitors
  ... Does not have Proximity Effect
 
+## Stereo Microphone Techniques
+
+Placeholder
+
+## X/Y Stereo Microphone Technique
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c2Km7KrKK9g" frameborder="0" allowfullscreen></iframe>
+
+## ORTF Stereo Microphone Technique
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSld0Jkdrec" frameborder="0" allowfullscreen></iframe>
+
+## Spaced Pair Stereo Microphone Technique
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jU72s7UvRIw" frameborder="0" allowfullscreen></iframe>
+
+## Comparison Spaced Pair vs ORTF
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nsUP_4I17uM" frameborder="0" allowfullscreen></iframe>
+
+## M/S Stereo Microphone Technique
+
+Placeholder
+
+## Biaural Stereo Microphone Technique
+<iframe width="420" height="315" src="https://www.youtube.com/embed/IUDTlvagjJA" frameborder="0" allowfullscreen></iframe>
+
 ## DI Boxes
  - Typically used to convert a high-impedance signal to low-impedance
  - Often converts unbalanced signals to balanced signals
@@ -147,5 +173,3 @@ nd must accept interference from everyone else
  - Masque IAS
  - Shure Wireless Workbench (*FREE*)
  - Sennheiser WSM
-
-## Line Level vs Mic Level

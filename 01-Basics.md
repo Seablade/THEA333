@@ -128,3 +128,6 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
 ## Doppler Effect
 ## Longitudinal vs Transverse Wave
 ## Mechanical vs Electromagnetic Wave
+
+
+## Line Level vs Mic Level vs Speaker Level
