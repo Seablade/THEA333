@@ -95,7 +95,7 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
  - Wavelength: The distance it takes for a wave to complete one cycle
  - Period: The amount of time it takes for a wave to complete one cycle
 
-## Sound Terminology (2/3)
+## Sound Terminology (3/3)
 
 ![2c](./images/itlsr-6.jpg)
 
