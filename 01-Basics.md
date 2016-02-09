@@ -78,6 +78,6 @@ Examples: XLR Cable, Speaker Cables, TosLink Cables, etc.
 
 ## What is Sound?
 
-![](./images/itlsr-3.jpg)
+![2c](./images/itlsr-3.jpg)
 
 Sound is the rapid cycling of pressure from high to low pressure.  As humans we typically hear pressure changes in the air that cycle from 20 times a second to 20 thousands times a second as sound.
