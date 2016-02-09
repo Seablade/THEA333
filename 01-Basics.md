@@ -1,5 +1,6 @@
 ---
 layout: bright
+style: custom.css
 ---
 
 # Sound Reinforcement Basics
