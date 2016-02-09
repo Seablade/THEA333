@@ -41,4 +41,5 @@ I tend to simplify the four requirements into just two:
  3. Input Transducers
  4. Signal Processing
  5. Output Transducers
- {:.next} Interconnections
+
+And we are going to add interconnections to this list.
