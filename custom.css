@@ -5,4 +5,5 @@ img {
 img[alt~="2c"] {
   width: 45%;
   float:left;
+  margin-right: 20px;
 }
