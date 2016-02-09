@@ -42,4 +42,38 @@ I tend to simplify the four requirements into just two:
  4. Signal Processing
  5. Output Transducers
 
-And we are going to add interconnections to this list.
+And we are going to add *interconnections* to this list.
+
+## Psychoacoustics
+
+Psychoacoustics has to do with how we hear.  We do not hear linearly, and various factors can change how we hear a sound.
+
+## Environment
+
+The environment is where we physically hear the sound.  If it is a noisy environment, it will affect how we hear the sound and the power needed to overcome the noise to hear the sound clearly.
+
+## Input Transducers
+
+Input Transducer: Converts Acoustic Energy into Electrical Energy
+
+Examples: Microphones, Pickups, etc.
+
+## Signal Processing
+
+Signal Processing: Anything that affects the quality of the electrical signal representing the acoustic sounds.
+
+Examples: Mixers, FX Processors, Dynamics (Compressor/Expander), etc.
+
+## Output Transducers
+
+Output Transducers: Converts electrical energy into Acoustic Energy
+
+Examples: Speakers
+
+## Interconnects
+
+Interconnects: The cabling and signaling carried on it that connects the various pieces of equipment.
+
+Examples: XLR Cable, Speaker Cables, TosLink Cables, etc.
+
+## What is Sound?
