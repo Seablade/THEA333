@@ -58,12 +58,16 @@ layout: default
   Feedback is when the sound from the speakers (Typically monitors) is strong enough to be picked up by the microphones, resulting in a re-amplification of the same signal, which is then in turn picked up by the microphones, resulting in an infinitively growing loop.
 
 ## Pickup Pattern
+![2c](./images/itlsr-37.jpg)
+
  - Cardioid
  - Super/Hyper Cardioid
  - Omni-Directional
  - Figure 8
 
 ## Cardioid
+![2c](./images/itlsr-34.jpg)
+
  - Named for the heart shape
  - Picks up primarily in front and a fair amount to the sides
  - Monitor placement directly behind the Microphone
@@ -83,6 +87,8 @@ layout: default
  - Proximity Effect
 
 ## Omni-Directional
+![2c](./images/itlsr-35.jpg)
+
  - Picks up in all directions
  - No good place for monitors
  ... Does not have Proximity Effect
@@ -91,14 +97,19 @@ layout: default
  - Typically used to convert a high-impedance signal to low-impedance
  - Often converts unbalanced signals to balanced signals
  - Come in two variety Passive and Active
+ - Can refer to converters of other types of signals as well (Bluetooth, USB, etc. DI Boxes)
 
 ## Passive DI vs Active DI (1/2)
+![2c](./images/jdi.jpg)
+
  - Passive DI requires no power
  - Active DI requires power
  - DI Boxes will insulate downstream equipment from phantom power (Prevent damage)
  - Power can be provided through Phantom Power or batteries depending on DI Box
 
 ## Passive DI vs Active DI (2/2)
+![2c](./images/j48.jpg)
+
  - Passive DI has a signal loss associated with it
  - Active DI has little to no signal loss- We are Part 15 users of the UHF spectrum
 
