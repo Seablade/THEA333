@@ -20,7 +20,7 @@ layout: default
 ## Dynamic Microphone
 ![2c](./images/itlsr-26.jpg)
 
- - Speaker in reverse
+ - Speaker in reverse)
  - Very durable
  - Not very accurate
  - Very common on live stages
@@ -41,6 +41,9 @@ layout: default
  - Exceedingly Fragile (Can be damaged by air blasts)
  - Do NOT apply Phantom Power
  - Typically used for a distinctive warm characteristic
+
+## Ribbon Microphone Video
+<iframe src="https://www.youtube.com/embed/SHkOkqnJjy0" frameborder="0" allowfullscreen></iframe>
 
 ## Other Microphones
  - Carbon Microphones- We are Part 15 users of the UHF spectrum
