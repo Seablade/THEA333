@@ -1,6 +1,6 @@
 ---
 layout: default
-style: ./custom.css
+style: img{width: 75%}
 ---
 
 # Sound Reinforcement Basics
