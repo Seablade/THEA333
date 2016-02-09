@@ -82,19 +82,24 @@ Examples: XLR Cable, Speaker Cables, TosLink Cables, etc.
 
 Sound is the rapid repeated cycling of pressure from high to low pressure.  As humans we typically hear pressure changes in the air that cycle from 20 times a second to 20 thousands times a second as sound.
 
-## Sound Terminology
+## Sound Terminology (1/3)
 
 ![2c](./images/itlsr-6.jpg)
 
 We use a 2 dimensional graph to show the changes in pressure over time as we stand still and a sound wave passes us.
 
-## Sound Terminology Continued
+## Sound Terminology (2/3)
 
 ![2c](./images/itlsr-6.jpg)
 
-Amplitude: The measured intensity of a sound wave (The difference between high and low pressure)
-Wavelength: The distance it takes for a wave to complete one cycle
-Period: The amount of time it takes for a wave to complete one cycle
-Frequency: The number of cycles of a waveform each second
-Compression: Area of high pressure
-Rarefaction: Area of low pressure
+ - Amplitude: The measured intensity of a sound wave (The difference between high and low pressure)
+ - Wavelength: The distance it takes for a wave to complete one cycle
+ - Period: The amount of time it takes for a wave to complete one cycle
+
+## Sound Terminology (2/3)
+
+![2c](./images/itlsr-6.jpg)
+
+ - Frequency: The number of cycles of a waveform each second
+ - Compression: Area of high pressure
+ - Rarefaction: Area of low pressure
