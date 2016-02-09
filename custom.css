@@ -1,3 +1,7 @@
+body, p, ul, li, ol {
+  font-size: 80%;
+}
+
 img {
   max-width: 90%;
   max-height: 400px;
