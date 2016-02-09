@@ -100,12 +100,14 @@ layout: default
 
 ## Wireless Microphones
 **Frequency Coordination**
+
  - One Transmitter to One Receiver
  - One Frequency to each Transmitter and Receiver
  ... The more microphones you add the more you have to worry about _intermodulation_
 
 ## Wireless Microphones
 **Interference**
+
 - We are Part 15 users of the UHF spectrum
 - We must not generate any interference, and must accept interference from everyone else
 - Other users of the spectrum can include:
@@ -115,10 +117,12 @@ layout: default
 
 ## Wireless Microphones
 **FCC Database**
+
  - The FCC Database is the single most important tool in your arsenal to predict frequencies in use.
 
 ## Wireless Microphones
 **Intermodulation**
+
  - Two or more frequencies combine to create 'phantom' frequencies
  - Can be predicted by MATH!
  - Get exponentially more complex with each additional microphone
