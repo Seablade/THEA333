@@ -1,6 +1,5 @@
 ---
 layout: default
-
 ---
 
 # Sound Reinforcement Basics
@@ -103,3 +102,26 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
  - Frequency: The number of cycles of a waveform each second
  - Compression: Area of high pressure
  - Rarefaction: Area of low pressure
+
+## Decibel
+
+## Decibel SPL
+
+## Inverse Square Law
+
+## Calculating Sound Loss over Distance
+
+## Adding Sounds
+
+## Gain
+
+## Equal Loudness Curves
+
+## Phase
+
+## Constructive and Destructive Interference
+
+
+## Speed of Sound
+## Calculating Wavelength
+## Calculating Distance
