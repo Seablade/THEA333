@@ -91,8 +91,8 @@ layout: default
  - Passive DI has a signal loss associated with it
  - Active DI has little to no signal loss
  - General Rule of Thumb
- -- Active DI on Passive Pickup
- -- Passive DI on Active Pickup or Output
+ + Active DI on Passive Pickup
+ + Passive DI on Active Pickup or Output
 
 ## Wireless Microphones
  - Allow a performer to move across the stage unimpeded by wires
@@ -111,9 +111,9 @@ layout: default
 - We are Part 15 users of the UHF spectrum
 - We must not generate any interference, and must accept interference from everyone else
 - Other users of the spectrum can include:
- - Other wireless microphone users
- - TV Broadcasts
- - White Space Devices
+ + Other wireless microphone users
+ + TV Broadcasts
+ + White Space Devices
 
 ## Wireless Microphones
 *FCC Database*
