@@ -111,8 +111,7 @@ layout: default
 ![2c](./images/j48.jpg)
 
  - Passive DI has a signal loss associated with it
- - Active DI has little to no signal loss- We are Part 15 users of the UHF spectrum
-
+ - Active DI has little to no signal loss
  - General Rule of Thumb
  + Active DI on Passive Pickup
  + Passive DI on Active Pickup or Output
