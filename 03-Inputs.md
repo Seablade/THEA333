@@ -9,6 +9,7 @@ layout: default
  - Pickup Pattern
 
 ## Construction Technique
+![2c](./images/radio-mic.jpg)
  - Dynamic
  - Condenser (Capacitor)
  - Ribbon
@@ -16,12 +17,14 @@ layout: default
  - etc.
 
 ## Dynamic Microphone
+![2c](./images/itlsr-26.jpg)
  - Speaker in reverse
  - Very durable
  - Not very accurate
  - Very common on live stages
 
 ## Condenser Microphone
+![2c](./images/itlsr-30.jpg)
  - Two metal plates seperated by airgap
  - Not very durable
  - Requires Power (Phantom Power)
@@ -29,19 +32,20 @@ layout: default
  - Not uncommon on a live stage
 
 ## Ribbon Microphone
+![2c](./images/itlsr-25.jpg)
  - Thin metallic ribbon suspended between magnetic poles
  - Exceedingly Fragile (Can be damaged by air blasts)
  - Do NOT apply Phantom Power
  - Typically used for a distinctive warm characteristic
 
 ## Other Microphones
- - Carbon Microphones
- -- Two Elements seperated by packed carbon
- -- Not very accurate
- -- OLD, used in old phones
+ - Carbon Microphones- We are Part 15 users of the UHF spectrum
+ + Two Elements seperated by packed carbon
+ + Not very accurate
+ + OLD, used in old phones
  - Other Microphones
- -- "Speakerphones" (Yamaha Subkick)
- -- Esoteric
+ + "Speakerphones" (Yamaha Subkick)
+ + Esoteric
 
 ## What is Feedback?
   Feedback is when the sound from the speakers (Typically monitors) is strong enough to be picked up by the microphones, resulting in a re-amplification of the same signal, which is then in turn picked up by the microphones, resulting in an infinitively growing loop.
@@ -89,7 +93,8 @@ layout: default
 
 ## Passive DI vs Active DI (2/2)
  - Passive DI has a signal loss associated with it
- - Active DI has little to no signal loss
+ - Active DI has little to no signal loss- We are Part 15 users of the UHF spectrum
+
  - General Rule of Thumb
  + Active DI on Passive Pickup
  + Passive DI on Active Pickup or Output
@@ -105,7 +110,8 @@ layout: default
 
 ## Wireless Microphones - *Interference*
 - We are Part 15 users of the UHF spectrum
-- We must not generate any interference, and must accept interference from everyone else
+- We must not generate any interference, a- We are Part 15 users of the UHF spectrum
+nd must accept interference from everyone else
 - Other users of the spectrum can include:
  + Other wireless microphone users
  + TV Broadcasts
