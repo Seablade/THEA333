@@ -120,14 +120,11 @@ layout: default
 
  - The FCC Database is the single most important tool in your arsenal to predict frequencies in use.
 
-## Wireless Microphones
-*Intermodulation*
-
+## Wireless Microphones - *Intermod*
  - Two or more frequencies combine to create 'phantom' frequencies
  - Can be predicted by MATH!
  - Get exponentially more complex with each additional microphone
 
-
-
+## Wireless Microphones - Software
 
 ## Line Level vs Mic Level
