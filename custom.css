@@ -1,3 +1,8 @@
 img {
-  width: 80%
+  width: 90%
+}
+
+img[2c] {
+  width: 45%;
+  float:left;
 }
