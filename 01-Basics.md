@@ -36,7 +36,9 @@ I tend to simplify the four requirements into just two:
 
 ![2c](images/itlsr-1.jpg)
 
- - Input Transducers
- - Signal Processing
- - Output Transducers
- ... Interconnections
+ 1. Psychoacoustics
+ 2. Environment
+ 3. Input Transducers
+ 4. Signal Processing
+ 5. Output Transducers
+ {:.next} Interconnections
