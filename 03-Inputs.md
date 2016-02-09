@@ -66,7 +66,7 @@ layout: default
  - Figure 8
 
 ## Cardioid
-![2c](./images/itlsr-34.jpg)
+![2c](./images/itlsr-35.jpg)
 
  - Named for the heart shape
  - Picks up primarily in front and a fair amount to the sides
@@ -87,7 +87,7 @@ layout: default
  - Proximity Effect
 
 ## Omni-Directional
-![2c](./images/itlsr-35.jpg)
+![2c](./images/itlsr-34.jpg)
 
  - Picks up in all directions
  - No good place for monitors
