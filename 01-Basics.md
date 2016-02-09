@@ -33,7 +33,7 @@ I tend to simplify the four requirements into just two:
 
 ## Sound Reinforcement System Model
 
-!(images/itlsr-1.jpg)[Sound System Model]
+![](images/itlsr_1.jpg)
  1. Input Transducers
  2. Signal Processing
  3. Output Transducers
