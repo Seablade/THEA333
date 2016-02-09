@@ -42,8 +42,9 @@ layout: default
  - Do NOT apply Phantom Power
  - Typically used for a distinctive warm characteristic
 
-## <iframe src="https://www.youtube.com/embed/SHkOkqnJjy0" frameborder="0" allowfullscreen></iframe>
+## Ribbon Microphones Video
 {:.cover .h}
+<iframe src="https://www.youtube.com/embed/SHkOkqnJjy0" frameborder="0" allowfullscreen></iframe>
 
 ## Other Microphones
  - Carbon Microphones- We are Part 15 users of the UHF spectrum
