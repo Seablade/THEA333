@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Wireless Microphones
  - Allow a performer to move across the stage unimpeded by wires
  - Have many more possible points of breakage than a wired connection
