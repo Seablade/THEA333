@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Wireless Microphones
 
 ## Wireless Microphones
  - Allow a performer to move across the stage unimpeded by wires
