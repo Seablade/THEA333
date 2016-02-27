@@ -160,8 +160,8 @@ and hence, frequency
 ![2c](./images/itlsr-15.jpg)
 
  - When two wave forms add, they can add constructively or destructively
- - Constructive Interference: When the result of two wave forms adding is greater in amplitude than either original
- - Destructive Interference: When the result of two wave forms adding is weaker in amplitude than either original
+ - *Constructive Interference*: When the result of two wave forms adding is greater in amplitude than either original
+ - *Destructive Interference*: When the result of two wave forms adding is weaker in amplitude than either original
 
 ## Speed of Sound
 
@@ -169,6 +169,9 @@ and hence, frequency
  - Rule of thumb for quick calculations and checking work, 1ft == 1ms
  
 ## Calculating Wavelength
+
+  $$ \latex  \frac(4/3) $$
+
 ## Calculating Distance
 ## Doppler Effect
 ## Longitudinal vs Transverse Wave
