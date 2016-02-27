@@ -104,12 +104,27 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
  - Rarefaction: Area of low pressure
 
 ## Decibel
+ - Represents a logarithmic ratio of two numbers
+ - Used due to the exponential nature of numbers we need for sound
 
 ## Decibel SPL
+ - Represents the ratio between the quietest sound we can hear and a different sound intensity
+ - Used to discuss the 'volume' of sound in air
 
 ## Inverse Square Law
+ - Actually a misnomer, what we deal with is the inverse distance law, but is commonly called the inverse square law
+ - Due to the way that sound expands in a space, we lose power as the sound wave 'stretches' to cover more area
+ - For every doubling of distance, we are at 1/4 of the power
+ - Or, for every doubling of distance we lose 6dBSPL
 
 ## Calculating Sound Loss over Distance
+ - 20 * log(d2/d1) = Difference in Gain
+ - So for a 90dBSPL source at 1 foot, the sound at 23ft is
+ -- 20 * log(23/1)
+ -- 20 * log(23)
+ -- 20 * 1.36172783602
+ -- 27.2345567204
+ -- 90 - 27.2345567204 is approx. equal to 63dBSPL at 23 ft
 
 ## Adding Sounds
 
