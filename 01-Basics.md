@@ -104,20 +104,24 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
  - Rarefaction: Area of low pressure
 
 ## Decibel
+
  - Represents a logarithmic ratio of two numbers
  - Used due to the exponential nature of numbers we need for sound
 
 ## Decibel SPL
+
  - Represents the ratio between the quietest sound we can hear and a different sound intensity
  - Used to discuss the 'volume' of sound in air
 
 ## Inverse Square Law
+
  - Actually a misnomer, what we deal with is the inverse distance law, but is commonly called the inverse square law
  - Due to the way that sound expands in a space, we lose power as the sound wave 'stretches' to cover more area
  - For every doubling of distance, we are at 1/4 of the power
  - Or, for every doubling of distance we lose 6dBSPL
 
 ## Calculating Sound Loss over Distance
+
  - 20 * log(d2/d1) = Difference in Gain
  - So for a 90dBSPL source at 1 foot, the sound at 23ft is
   * 20 * log(23/1)
@@ -126,18 +130,44 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
   * 27.2345567204
   * 90 - 27.2345567204 is approx. equal to 63dBSPL at 23 ft
 
-## Adding Sounds
-
 ## Gain
+
+ - Gain is a term that gets applied in multiple different ways in sound
+ - It could refer to the total change in power when a sound goes through a sound system and is amplified
+ - It could refer to the amplification of any signal at any one stage of this process
+ - It could refer to the adjustment made to the input of a preamp (Also referred to as Trim)
+ - All of these have a common similarity of referring to a change in level
 
 ## Equal Loudness Curves
 
+![2c](./images/itlsr-12.jpg)
+
+ - The way we hear changes depending on the 'loudness' of the sound
+ - At lower volumes we are more sensitive to the range of the human voice
+ - At higher volumes our hearing becomes 'flatter'
+ - Thus the 'loud' button on old stereos that would boost bass and high frequencies to make it sound louder
+
 ## Phase
+
+![2c](./images/itlsr-14.jpg)
+
+ - From the book: Phase is a way of describing the relative time positions of two waves that have the same wavelength,
+and hence, frequency
+ - Since audio is cyclical, we used degrees to represent phase
 
 ## Constructive and Destructive Interference
 
+![2c](./images/itlsr-15.jpg)
+
+ - When two wave forms add, they can add constructively or destructively
+ - Constructive Interference: When the result of two wave forms adding is greater in amplitude than either original
+ - Destructive Interference: When the result of two wave forms adding is weaker in amplitude than either original
 
 ## Speed of Sound
+
+ - Approx. 340m/s
+ - Rule of thumb for quick calculations and checking work, 1ft == 1ms
+ 
 ## Calculating Wavelength
 ## Calculating Distance
 ## Doppler Effect
