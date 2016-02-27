@@ -170,7 +170,6 @@ and hence, frequency
  
 ## Calculating Wavelength
 
-  $c = \\pm\\sqrt{a^2 + b^2}$
 
 ## Calculating Distance
 ## Doppler Effect
