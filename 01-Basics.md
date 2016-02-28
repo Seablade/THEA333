@@ -126,6 +126,8 @@ $$20 * log(d2/d1) = DifferenceInDecibels$$
 
 So for a 90dBSPL source at 1 foot, the sound at 23ft is
 
+
+
 $$20 * log(23/1)$$
 
 $$20 * log(23)$$
