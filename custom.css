@@ -14,3 +14,7 @@ img[alt~="2c"] {
   margin-right: 60px;
   margin-bottom: 60px;
 }
+
+.slide p {
+  margin-bottom: 0px;
+}
