@@ -170,7 +170,7 @@ and hence, frequency
  
 ## Calculating Wavelength
 
-& \frac{4/3} $
+$ \frac{4/3} $
 
 ## Calculating Distance
 ## Doppler Effect
