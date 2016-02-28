@@ -172,6 +172,8 @@ and hence, frequency
 
 \\( \frac{4}{3} \\)
 
+$$\frac{7}{8}$$
+
 This is a test.
 
 ## Calculating Distance
