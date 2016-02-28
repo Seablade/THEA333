@@ -124,6 +124,7 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
 
  - 20 * log(d2/d1) = Difference in Gain
 
+
    So for a 90dBSPL source at 1 foot, the sound at 23ft is
 
    $$20 * log(23/1)$$
