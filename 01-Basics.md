@@ -124,11 +124,13 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
 
  - 20 * log(d2/d1) = Difference in Gain
  - So for a 90dBSPL source at 1 foot, the sound at 23ft is
+$$
   * 20 * log(23/1)
   * 20 * log(23)
   * 20 * 1.36172783602
   * 27.2345567204
-  * 90 - 27.2345567204 is approx. equal to 63dBSPL at 23 ft
+  * 90 - 27.2345567204 \approx 63dBSPL@23ft
+$$
 
 ## Gain
 
@@ -169,10 +171,6 @@ and hence, frequency
  - Rule of thumb for quick calculations and checking work, 1ft == 1ms
  
 ## Calculating Wavelength
-
-\\( \frac{4}{3} \\)
-
-$$\frac{7}{8}$$
 
 This is a test.
 
