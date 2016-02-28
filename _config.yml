@@ -1,6 +1,5 @@
 safe: true
 markdown: kramdown
-    math_engine: mathjax
 highlighter: rouge
 permalink: /:title.html
 relative_permalinks: false
