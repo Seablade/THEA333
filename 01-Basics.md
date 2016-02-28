@@ -132,7 +132,7 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
 
    $$27.2345567204$$
 
-   $$90 - 27.2345567204 \approx 63dBSPL@23ft\\$$
+   $$90 - 27.2345567204 \approx 63dBSPL@23ft$$
 
 ## Gain
 
