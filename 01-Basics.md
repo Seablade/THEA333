@@ -177,19 +177,17 @@ and hence, frequency
  - Approx. 340m/s
  - Rule of thumb for quick calculations and checking work, 1ft == 1ms
  
-## Calculating Wavelength
+## Calculating Wavelength, Frequency, given one or the other
 
 $$c==\frac{\nu}{\lambda}$$
 
-$$c == Speed of Sound$$
+$$c == Speed of Sound \approx \frac{340m}{s}$$
 
 $$\nu == Frequency$$
 
 $$\lambda == Wavelangth$$
 
-## Calculating Wavelength Example
-
-440Hz
+## Calculating Wavelength of 440Hz
 
 $$c==\frac{\nu}{\lambda}$$
 
