@@ -179,19 +179,18 @@ and hence, frequency
  
 ## Calculating Wavelength, Frequency, given one or the other
 
-$$c==\nu \times \lambda$$
-
-$$c == Speed of Sound \approx \frac{340m}{s}$$
-
-$$\nu == Frequency$$
-
-$$\lambda == Wavelangth$$
+$$c==\nu \times \lambda\\
+\\
+c == Speed of Sound \approx \frac{340m}{s}\\
+\nu == Frequency\\
+\lambda == Wavelangth$$
 
 ## Calculating Wavelength of 440Hz
 
 $$
 \begin{align}
 c&==\nu \times \lambda\\
+\\
 \frac{340m}{s} &== \frac{440}{s} \times \lambda\\
 \frac{340m}{s}\times\frac{1}{\frac{440}{s}} &== \lambda\\
 0.77272727272m &== \lambda\\
