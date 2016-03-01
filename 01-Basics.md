@@ -194,7 +194,7 @@ $$
 c&==\nu \times \lambda\\
 \frac{340m}{s} &== \frac{440}{s} \times \lambda\\
 \frac{340m}{s}\times\frac{1}{\frac{440}{s}} &== \lambda\\
-0.77272727272m &== \lambda
+0.77272727272m &== \lambda\\
 \lambda &\approx 77cm
 \end{align}
 $$
