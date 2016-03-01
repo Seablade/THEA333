@@ -18,3 +18,10 @@ img[alt~="2c"] {
 .slide p {
   margin-bottom: 0px;
 }
+
+code.has-jax {
+  font: inherit; 
+  font-size: 100%; 
+  background: inherit; 
+  border: inherit;
+}
