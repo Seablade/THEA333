@@ -192,7 +192,7 @@ $$\lambda == Wavelangth$$
 $$
 \begin{align}
 c&==\nu \times \lambda\\
-\frac{340m}{s} &== \frac{\frac{440}{s}}{\lambda}\\
+\frac{340m}{s} &== \frac{440}{s} \times \lambda\\
 \frac{340m}{s}\times\frac{1}{\frac{440}{s}} &== \lambda\\
 0.77272727272m &== \lambda
 \end{align}
