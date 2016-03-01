@@ -189,13 +189,14 @@ $$\lambda == Wavelangth$$
 
 ## Calculating Wavelength of 440Hz
 
-\\being{equation}
+```
+\being{equation}
 c==\frac{\nu}{\lambda}
 \frac{340m}{s} == \frac{\frac{440}{s}}{\lambda}
 \frac{340m}{s}\times\frac{1}{\frac{440}{s}} == \lambda
 0.77272727272m == \lambda
-\\end{equation}
-
+\end{equation}
+```
 ## Calculating Distance
 ## Doppler Effect
 ## Longitudinal vs Transverse Wave
