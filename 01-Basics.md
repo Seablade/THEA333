@@ -180,16 +180,23 @@ and hence, frequency
 ## Calculating Wavelength
 
 $$c==\frac{\nu}{\lambda}$$
+
 $$c == Speed of Sound$$
+
 $$\nu == Frequency$$
+
 $$\lambda == Wavelangth$$
 
 ## Calculating Wavelength Example
 
 440Hz
+
 $$c==\frac{\nu}{\lambda}$$
+
 $$\frac{340m}{s} == \frac{\frac{440}{s}}{\lambda}$$
+
 $$\frac{340m}{s} * \frac{1}{\frac{440}{s}} == \lamba$$
+
 $$0.77272727272m == \lambda$$
 
 ## Calculating Distance
