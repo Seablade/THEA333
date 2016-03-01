@@ -179,7 +179,7 @@ and hence, frequency
  
 ## Calculating Wavelength
 
-This is a test.
+$$c=\frac{\nu}{\lambda}$$
 
 ## Calculating Distance
 ## Doppler Effect
