@@ -179,7 +179,7 @@ and hence, frequency
  
 ## Calculating Wavelength, Frequency, given one or the other
 
-$$c==\frac{\nu}{\lambda}$$
+$$c==\nu \times \lambda$$
 
 $$c == Speed of Sound \approx \frac{340m}{s}$$
 
@@ -191,7 +191,7 @@ $$\lambda == Wavelangth$$
 
 $$
 \begin{align}
-c&==\frac{\nu}{\lambda}\\
+c&==\nu \times \lambda\\
 \frac{340m}{s} &== \frac{\frac{440}{s}}{\lambda}\\
 \frac{340m}{s}\times\frac{1}{\frac{440}{s}} &== \lambda\\
 0.77272727272m &== \lambda
