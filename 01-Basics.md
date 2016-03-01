@@ -190,7 +190,7 @@ $$\lambda == Wavelangth$$
 ## Calculating Wavelength of 440Hz
 
 ``` latex
-\being{equation}
+\begin{equation}
 c==\frac{\nu}{\lambda}
 \frac{340m}{s} == \frac{\frac{440}{s}}{\lambda}
 \frac{340m}{s}\times\frac{1}{\frac{440}{s}} == \lambda
