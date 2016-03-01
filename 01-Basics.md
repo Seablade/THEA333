@@ -189,7 +189,7 @@ $$\lambda == Wavelangth$$
 
 ## Calculating Wavelength of 440Hz
 
-```has-jax
+``` latex
 \being{equation}
 c==\frac{\nu}{\lambda}
 \frac{340m}{s} == \frac{\frac{440}{s}}{\lambda}
