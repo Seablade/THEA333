@@ -14,10 +14,6 @@ A sound reinforcement system is designed to satisfy two basic requirements for t
 ## Fidelity (Includes Intelligibility)
   Fidelity is the ability of the sound reinforcement system to recreate a sound accurately.  I believe this is going to include intelligibility, or the ability to understand what is being spoken.  If you have a high fidelity sound system, you should also be able to clearly understand what is said.
 
-### Testing
-
-  This is a test.
-
 ## Power
   The sound system needs to be able to produce a level of output high enough for it's needs.
    - Rock and Roll == Higher Power Required
@@ -70,7 +66,7 @@ Examples: XLR Cable, Speaker Cables, TosLink Cables, etc.
 
 ![2c](./images/itlsr-3.jpg)
 
-Sound is the rapid repeated cycling of pressure from high to low pressure.  As humans we typically hear pressure changes in the air that cycle from 20 times a second (20Hz) to 20 thousands times a second (20kHz)as sound.
+Sound is the rapid repeated cycling of air pressure from high to low pressure.  As humans we typically hear pressure changes in the air that cycle from 20 times a second (20Hz) to 20 thousands times a second (20kHz)as sound.
 
 ## Sound Terminology (1/3)
 
@@ -96,12 +92,16 @@ We use a 2 dimensional graph to show the changes in pressure over time as we sta
 
 ## Decibel
 
- - Represents a logarithmic ratio of two numbers
- - Used due to the exponential nature of numbers we need for sound
+ - Represents a logarithmic ratio of two numbers (Exponential)
+ - Used due to the exponential nature of numbers we need for sound, Why?
+   - The difference between the loudest sound we can detect and the quietest sound we as humans can detect id measured in measured intensity in the air is 10,000,000,000,000
+   - They way we perceive sound does not reflect the differences in measured sound intensity.
+
+// This is a presenter note?
 
 ## Decibel SPL
 
- - Represents the ratio between the quietest sound we can hear and a different sound intensity
+ - Represents the ratio between the quietest sound we can hear (Pin drop in a silent room) and a different sound intensity
  - Used to discuss the 'volume' of sound in air
 
 ## Inverse Square Law
@@ -150,8 +150,7 @@ $$
 
 ![2c](./images/itlsr-14.jpg)
 
- - From the book: Phase is a way of describing the relative time positions of two waves that have the same wavelength,
-and hence, frequency
+ - Phase is a way of describing the relative time positions of two waves that have the same wavelength, and hence, frequency
  - Since audio is cyclical, we used degrees to represent phase
 
 ## Constructive and Destructive Interference
