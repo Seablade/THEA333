@@ -28,8 +28,7 @@ A sound reinforcement system is designed to satisfy two basic requirements for t
  3. Input Transducers
  4. Signal Processing
  5. Output Transducers
-
-And we are going to add *interconnections* to this list.
+ 6. Interconnections
 
 ## Psychoacoustics
 
