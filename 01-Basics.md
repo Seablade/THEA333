@@ -6,30 +6,18 @@ layout: default
 
 ## Purpose of Sound Reinforcement System
 
-Author presents these basic four requirements of a sound reinforcement system
-
- - Intelligibility
- - Fidelity
- - Power
- - Monitoring and Controllability
-
-##  Simplified Purpose of Sound Reinforcement System
-
-I tend to simplify the four requirements into just two:
+A sound reinforcement system is designed to satisfy two basic requirements for the listeners,
 
  - Fidelity
  - Power
 
 ## Fidelity (Includes Intelligibility)
-  Fidelity is the ability of the sound reinforcement system to recreate a sound accurately.  I believe this is going to include inteligibility, or the ability to understand what is being spoken.  If you have a high fidelity sound system, you should also be able to clearly understand what is said.
+  Fidelity is the ability of the sound reinforcement system to recreate a sound accurately.  I believe this is going to include intelligibility, or the ability to understand what is being spoken.  If you have a high fidelity sound system, you should also be able to clearly understand what is said.
 
 ## Power
   The sound system needs to be able to produce a level of output high enough for it's needs.
    - Rock and Roll == Higher Power Required
    - Speech Reinforcement == Lower Power Requirements
-
-## Why not monitoring and control?
-  Some sound systems are designed in such a way that their operators are completely unaware of what is actually happening.  These are commonly installed in commercial and some house of worship situations, where the operator needs to just hit a button to turn things on, and know that it will do what they want.
 
 ## Sound Reinforcement System Model
 
@@ -79,7 +67,7 @@ Examples: XLR Cable, Speaker Cables, TosLink Cables, etc.
 
 ![2c](./images/itlsr-3.jpg)
 
-Sound is the rapid repeated cycling of pressure from high to low pressure.  As humans we typically hear pressure changes in the air that cycle from 20 times a second to 20 thousands times a second as sound.
+Sound is the rapid repeated cycling of pressure from high to low pressure.  As humans we typically hear pressure changes in the air that cycle from 20 times a second (20Hz) to 20 thousands times a second (20kHz)as sound.
 
 ## Sound Terminology (1/3)
 
@@ -132,7 +120,7 @@ $$
 20 &* log(23)\\
 20 &* 1.36172783602\\
 27&.2345567204\\
-90 &- 27.2345567204\\ 
+90 &- 27.2345567204\\
 \approx 63dB&SPL@23ft
 \end{align}
 $$
@@ -175,7 +163,7 @@ and hence, frequency
 
  - Approx. 340m/s
  - Rule of thumb for quick calculations and checking work, 1ft == 1ms
- 
+
 ## Calculating Wavelength, Frequency, given one or the other
 
 $$c==\nu \times \lambda\\
