@@ -14,6 +14,8 @@ A sound reinforcement system is designed to satisfy two basic requirements for t
 ## Fidelity (Includes Intelligibility)
   Fidelity is the ability of the sound reinforcement system to recreate a sound accurately.  I believe this is going to include intelligibility, or the ability to understand what is being spoken.  If you have a high fidelity sound system, you should also be able to clearly understand what is said.
 
+### Testing
+
 ## Power
   The sound system needs to be able to produce a level of output high enough for it's needs.
    - Rock and Roll == Higher Power Required
