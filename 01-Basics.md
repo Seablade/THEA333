@@ -16,6 +16,8 @@ A sound reinforcement system is designed to satisfy two basic requirements for t
 
 ### Testing
 
+  This is a test.
+
 ## Power
   The sound system needs to be able to produce a level of output high enough for it's needs.
    - Rock and Roll == Higher Power Required
