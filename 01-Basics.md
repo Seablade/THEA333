@@ -186,11 +186,3 @@ c&==\nu \times \lambda\\
 \lambda &\approx 77cm
 \end{align}
 $$
-
-## Calculating Distance
-## Doppler Effect
-## Longitudinal vs Transverse Wave
-## Mechanical vs Electromagnetic Wave
-
-
-## Line Level vs Mic Level vs Speaker Level
